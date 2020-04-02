@@ -6,6 +6,9 @@
 - And maybe glibc-static
 - ncurses-devel
 
+# Vim Config
+I use the popular [vimrc]() configuration for my vim
+
 # Credits
 Greatly inspired by:
 - [Ham Vocke](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
